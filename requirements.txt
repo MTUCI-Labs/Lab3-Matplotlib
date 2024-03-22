@@ -1,2 +1,2 @@
-pydantic
+pandas
 matplotlib
